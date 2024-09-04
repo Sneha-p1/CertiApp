@@ -25,7 +25,7 @@ The Certificate DApp is designed to securely issue and verify certificates using
 git clone git@github.com:Sneha-p1/Certificate_DApp.git
 cd Certificate_DApp
   <button onclick="copyToClipboard('#code1')">Copy</button>
-</div>
+</div>```
 
 
 
