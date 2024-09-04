@@ -16,7 +16,11 @@ The Certificate DApp is designed to securely issue and verify certificates using
 
 ## 📢 Prerequisites
 
-- **Node.js 16.x**: A JavaScript runtime environment. [Download Node.js](https://nodejs.org/)
+- **Node.js 16.x** : A JavaScript runtime environment. [Download Node.js](https://nodejs.org/)
+## ⚙️ Run Locally
+Clone the Project and change into the directory
+git clone https://github.com/Kerala-Blockchain-Academy/light-explorer
+cd light-explorer
 
 
 
