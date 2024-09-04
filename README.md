@@ -21,9 +21,14 @@ The Certificate DApp is designed to securely issue and verify certificates using
 
 ### Clone the Project and change into the directory
 ```html
-git clone git@github.com:Sneha-p1/Certificate_DApp.git
+git clone [git@github.com:Sneha-p1/Certificate_DApp.git](https://github.com/Sneha-p1/Certificate_DApp.git)
 cd Certificate_DApp
 ```
+### Install dependencies
+```html
+npm install
+```
+
 
 
 
