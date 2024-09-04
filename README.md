@@ -21,11 +21,10 @@ The Certificate DApp is designed to securely issue and verify certificates using
 
 ### Clone the Project and change into the directory
 ```html
-<div>
+
 git clone git@github.com:Sneha-p1/Certificate_DApp.git
 cd Certificate_DApp
-  <button onclick="copyToClipboard('#code1')">Copy</button>
-</div>```
+
 
 
 
