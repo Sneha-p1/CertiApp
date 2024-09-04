@@ -21,13 +21,44 @@ The Certificate DApp is designed to securely issue and verify certificates using
 
 ### Clone the Project and change into the directory
 ```html
-git clone [git@github.com:Sneha-p1/Certificate_DApp.git](https://github.com/Sneha-p1/Certificate_DApp.git)
+git clone https://github.com/Sneha-p1/Certificate_DApp.git
 cd Certificate_DApp
 ```
 ### Install dependencies
 ```html
 npm install
 ```
+### Run the application
+```html
+npm run dev
+```
+## 📄 Demo
+[Demo](https://example.com)
+
+## 📦 Planned Updates
+
+- MetaMask Compatibility
+- UI Updates
+- Mobile View
+- Production Release
+- Desktop App
+
+## 🛠️ Contributing
+
+The open-source community thrives on the contributions of its members, making it a remarkable space for learning, inspiration, and innovation. Every contribution you offer is **deeply valued**.
+
+Should you have ideas to enhance this, kindly fork the repository and initiate a pull request. Alternatively, you can open an issue and tag it with `enhancement`. Remember to star the project! Many thanks!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/<feature_name>`)
+3. Commit your Changes (`git commit -m '<feature_name>_added'`)
+4. Push to the Branch (`git push origin feature/<feature_name>`)
+5. Open a Pull Request
+
+## 📜 License
+
+This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 
 
