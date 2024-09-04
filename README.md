@@ -10,8 +10,8 @@ The Certificate DApp is designed to securely issue and verify certificates using
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
-![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=React&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Solidity](https://img.shields.io/badge/-363636?style=flat-square&logo=Solidity&logoColor=white)
-![Express](https://img.shields.io/badge/-000000?style=flat-square&logo=Express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
+
 
