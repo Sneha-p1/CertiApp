@@ -38,8 +38,13 @@ npm run dev
    npx hardhat ignition deploy ignition/modules/Cert.js --network <network-name>
 ```
    
-## 📄 Demo
-[Demo](https://example.com)
+## 🎥 Demo Video
+
+Check out our live demo! 🎬👇
+
+[![Watch the video][(https://github.com/Neethu-Muthu/Certificate-DApp/blob/main/UI/src/assets/images/Untitled%20design.png)](https://github.com/Neethu-Muthu/Certificate-DApp/blob/main/UI/src/assets/images/certiVid-7201959.webm)](https://github.com/Sneha-p1/Certificate_DApp/blob/main/UI/src/Image/Marketing%20Blog%20YouTube%20.png)
+
+
 
 ## 📦 Planned Updates
 
