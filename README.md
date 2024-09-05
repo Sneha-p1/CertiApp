@@ -16,7 +16,7 @@ The Certificate DApp is designed to securely issue and verify certificates using
 
 ## 📢 Prerequisites
 
-- **Node.js 16.x** : A JavaScript runtime environment. [Download Node.js](https://nodejs.org/)
+- **Node.js** : A JavaScript runtime environment. [Download Node.js](https://nodejs.org/)
 ## ⚙️ Run Locally
 
 ### Clone the Project and change into the directory
@@ -32,6 +32,11 @@ npm install
 ```html
 npm run dev
 ```
+### Deploy the smart contract
+
+   bash
+   npx hardhat ignition deploy ignition/modules/Cert.js --network <network-name>
+   
 ## 📄 Demo
 [Demo](https://example.com)
 
