@@ -34,8 +34,9 @@ npm run dev
 ```
 ### Deploy the smart contract
 
-   bash
+```html
    npx hardhat ignition deploy ignition/modules/Cert.js --network <network-name>
+```
    
 ## 📄 Demo
 [Demo](https://example.com)
