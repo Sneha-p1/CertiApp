@@ -57,12 +57,12 @@ const submitId=async(e)=>{
               type="text"
               name="idno"
               id="idno"
-              placeholder="Enter Certificate ID to View:"
+              placeholder="Enter Certificate ID to View :"
               className="border-2 w-80 h-9 pl-4 ml-10 rounded-2xl text-slate-500 bg-white"
               value={idno}
               onChange={(e) => setIdno(e.target.value)}
             /> 
-            <button type="submit" className="bg-cyan-700 w-20 h-9 text-white hover:bg-sky-500 rounded-xl">
+            <button type="submit" className="bg-cyan-700 w-20 h-9 text-white hover:bg-sky-500 rounded-xl ml-4">
               Search
             </button>
       </form>

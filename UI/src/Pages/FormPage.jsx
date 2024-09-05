@@ -67,7 +67,7 @@ const FormPage = () => {
     <>
       <div className='bg-cyan-50'>
         {/* <h1 className="text-3xl font-medium mt-2">Certificate Dapp</h1> */}
-      <button type="submit" className="text-center shadow bg-white w-26 h-10  border-2 border-slate-400  bg-slate-300 rounded-lg ml-5 mt-2" onClick={connentToMetamask}>
+      <button type="submit" className="text-center shadow bg-white w-26 h-10  border-2 border-slate-400  bg-slate-300 hover:bg-sky-500 rounded-lg ml-5 mt-2" onClick={connentToMetamask}>
               connect to metamask
       </button>
         <div className="box-content w-2/4 h-6/6 mb-12 shadow-lg mx-auto mt-20 pl-4 pt-4 bg-white">
