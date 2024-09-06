@@ -36,8 +36,8 @@ const Certificate = () => {
 console.log(student)
   return (
     <>
-      <div className="w-4/5 h-96 shadow-lg mx-auto mt-32 bg-white">
-        <h1 className="text-2xl text-center">Kerala Blockchain Academy</h1><br/>
+      <div className="w-2/4 h-[400px] shadow-lg mx-auto  bg-white">
+        <h1 className="text-2xl text-center ml-32 mt-32">Kerala Blockchain Academy</h1><br/>
         <img src="/src/Image/Screenshot.png" alt="Certificate" className="mx-auto flex-none w-56" /><br/>
         <p className="text-center">This is to certify that {student.name} has successfully completed {student.course}</p>
         <p className="text-center">with {student.grade} on {student.date}</p>
