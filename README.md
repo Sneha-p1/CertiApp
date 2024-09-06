@@ -42,11 +42,8 @@ npm run dev
 
 Check out our live demo! 🎬👇
 <a href="https://drive.google.com/file/d/1FQPDH9bXB56Rm9v81jWZ8d8OxBJC3g90/view?usp=sharing">
-<img src="https://github.com/Sneha-p1/Certificate_DApp/blob/main/UI/src/Image/Marketing%20Blog%20YouTube%20.png"/>
+<img src="https://github.com/Sneha-p1/Certificate_DApp/blob/main/UI/src/Image/Marketing%20Blog%20YouTube%20.png" width='600'/>
 </a>
-[![Watch the video](https://github.com/Sneha-p1/Certificate_DApp/blob/main/UI/src/Image/Marketing%20Blog%20YouTube%20.png)]([https://drive.google.com/file/d/YOUR_DRIVE_VIDEO_ID/view](https://drive.google.com/file/d/1FQPDH9bXB56Rm9v81jWZ8d8OxBJC3g90/view?usp=sharing))
-
-
 
 ## 📦 Planned Updates
 
