@@ -1,4 +1,4 @@
-# 🎓 Certificate DApp
+# 🎓 CertiLink DApp
 
 Certificate DApp is a decentralized application designed to generate and verify certificates with unique IDs. Built on blockchain technology, this application ensures the authenticity and immutability of certificates.
 
