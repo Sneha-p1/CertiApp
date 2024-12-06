@@ -1,10 +1,10 @@
 # 🎓 CertiLink DApp
 
-Certificate DApp is a decentralized application designed to generate and verify certificates with unique IDs. Built on blockchain technology, this application ensures the authenticity and immutability of certificates.
+CertiLink is a decentralized application designed to generate and verify certificates with unique IDs. Built on blockchain technology, this application ensures the authenticity and immutability of certificates.
 
 ## 🎯 Purpose
 
-The Certificate DApp is designed to securely issue and verify certificates using blockchain technology. By creating immutable, tamper-proof certificates with unique IDs, this DApp ensures authenticity and simplifies the verification process, making it ideal for educational institutions, certification bodies, and organizations that require secure and reliable certificate management.
+The CertiLink is designed to securely issue and verify certificates using blockchain technology. By creating immutable, tamper-proof certificates with unique IDs, this DApp ensures authenticity and simplifies the verification process, making it ideal for educational institutions, certification bodies, and organizations that require secure and reliable certificate management.
 ## 🛠️ Built With
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
